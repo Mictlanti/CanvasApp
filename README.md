@@ -20,7 +20,7 @@ Main features:
 - LaunchedEffect and withFrameNanos for fluid animation
 
 🚀 How using:
-- clone the ropository:
+- clone the ropository: git clone https://github.com/Mictlanti/CanvasApp.git
 
 - Open it in Android studio.
 
